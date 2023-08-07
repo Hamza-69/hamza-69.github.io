@@ -64,7 +64,9 @@ footer {
   height: 50px;
   margin-top: auto; /* Push the footer to the bottom */
 }
-
+.choices:first-child{
+  margin-top:0;
+}
 /* Media query for mobile devices */
 @media screen and (max-width: 600px) {
   .choices {
