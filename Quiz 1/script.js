@@ -39,7 +39,7 @@ function calculateSecondPageScore() {
 }
 
 function calculateThirdPageScore() {
-  const answers = ['b', 'a', 'a', 'c', 'd']; // Correct answers for page3.html questions
+  const answers = ['a', 'a', 'a', 'c', 'd']; // Correct answers for page3.html questions
   let score = 0;
 
   for (let i = 11; i <= 15; i++) {
