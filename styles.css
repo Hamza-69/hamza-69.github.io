@@ -44,9 +44,7 @@ a {
 .choices:hover {
   background-color: #333;
 }
-.choices:last-child {
-  margin-top: 0;
-}
+
 
 main {
   width: 100%;
