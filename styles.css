@@ -19,6 +19,7 @@ header {
   background-color: #007BFF;
   color: #fff;
   text-align: center;
+  margin-bottom: 25px;
 }
 
 a {
@@ -39,6 +40,10 @@ a {
   margin-top: 25px;
   text-align: center;
   font-size: 20px;
+}
+
+.choices:last-child{
+  margin-bottom: 25px;
 }
 
 .choices:hover {
@@ -62,9 +67,6 @@ footer {
   background-color: #007BFF;
   color: white;
   height: 50px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
   margin-top: auto;
 }
 .choices:first-child{
