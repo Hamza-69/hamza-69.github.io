@@ -62,7 +62,8 @@ footer {
   background-color: #007BFF;
   color: white;
   height: 50px;
-  margin-top: auto; /* Push the footer to the bottom */
+  position: fixed;
+  bottom: 0;
 }
 .choices:first-child{
   margin-top:0;
